@@ -41,6 +41,11 @@ Spreadsheet analysis of the Titanic dataset using Excel (Power Query) and Google
 - Survival rate was higher among females and first-class passengers.  
 - Average passenger age ≈ 29 years, average fare ≈ 32 units.  
 - Missing values in Age column identified using `COUNTBLANK`.
+
+### Output
+
+- Output and calculatios via Formulas  
+  ![Result](images/calculationoutput.png)
   
 ---
 
