@@ -18,10 +18,10 @@ Analysis of the Breast Cancer Wisconsin dataset using Python (Colab). Workflow i
 
 ### Visualizations
 - Diagnosis Distribution (Bar Chart)  
-  ![Diagnosis Distribution](images/diagnosis_distribution.png)
+  ![Diagnosis Distribution](images/diagnosisdistribution.png)
 
 - Feature Distribution (Histogram)  
-  ![Feature Distribution](images/radius_histogram.png)
+  ![Feature Distribution](images/radiushistogram.png)
 
 ---
 
