@@ -48,6 +48,16 @@ Spreadsheet analysis of the Titanic dataset using Excel (Power Query) and Google
   ![Result](images/calculationoutput.png)
   
 ---
+## 📂 Datasets
+- **Breast Cancer Wisconsin (Diagnostic) Dataset**  
+  Source: [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)  
+  Used in Task 1 for Python analysis (Colab).
+
+- **Titanic Dataset**  
+  Source: [Kaggle](https://www.kaggle.com/c/titanic/data)  
+  Loaded directly from the web in Task 2 for Excel/Google Sheets analysis.
+
+ ---
 
 ## Summary
 Task 1 (Breast Cancer dataset) highlighted differences between malignant and benign cases using Python analysis.  
