@@ -33,7 +33,9 @@ Spreadsheet analysis of the Titanic dataset using Excel (Power Query) and Google
 ### Functions Applied
 - **COUNT / COUNTA / COUNTIF** → survival counts, gender distribution, missing ages, unique ticket classes.  
 - **COUNTBLANK** → identified missing ages.    
-- **SUM** → total fares.  
+- **SUM** → total fares.
+- **SUMIF** → Sum of the female and male survivors.
+- **SUMIFS** → Sum of male survivors.
 - **AVERAGE** → average age and fare.  
 
 ### Key Insights
